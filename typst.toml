@@ -3,7 +3,6 @@ name = "cnu-bachelor-thesis"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["ShapeLayer"]
-license = "MIT"
 description = "Bachelor's thesis template for Chonnam National University."
 repository = "https://github.com/ShapeLayer/bachelor-thesis-template-cnu-ce"
 keywords = ["thesis", "korean", "chonnam"]
