@@ -209,7 +209,7 @@
     #text(size: 16pt)[#format-name(author)]
     #vspan-using-line(14pt, 2, 1.6)
     #text(size: 16pt)[
-      지도교수#h(1em) #format-name(supervisor, spacing: 1.2em)
+      지도교수#h(.2em) #format-name(supervisor, spacing: 1.2em) #h(.8em) (인)
     ]
       #vspan-using-line(14pt, 6, 1.6)
     #text(size: 16pt)[#pubdate.year\년 #h(.8em) #pubdate.month\월]
