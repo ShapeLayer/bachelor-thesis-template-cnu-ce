@@ -187,6 +187,7 @@
     #text(size: 16pt)[#pubdate.year\년 #h(.8em) #pubdate.month\월]
   ]
 
+  pagebreak()
   counter(page).update(0)
   
   // 내지
@@ -223,6 +224,7 @@
       #counter(page).display()
     ]
   )
+  pagebreak()
 
   body
 }
